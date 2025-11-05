@@ -1,23 +1,29 @@
-# Prompt Development for Machine Learning Models
+# Prompt Development Process
 
-**Why:** Developing effective prompts for machine learning models is an iterative process that requires refining ideas and instructions to achieve desired results for specific applications.
+**Why:** Developing effective prompts is an iterative process, focusing on refining ideas rather than achieving perfection on the first try.
 
-**How:** Start by writing a prompt based on your idea, run it, analyze the output, and iterate by clarifying instructions or giving more guidance to the model until you reach a satisfactory result.
+**How:** 
+1. Start with an idea
+2. Write a prompt
+3. Run it
+4. Analyze the result
+5. Refine the prompt based on feedback
+6. Iterate until it meets the application's needs
 
-**What:** The lesson demonstrates the process of developing a prompt for summarizing a fact sheet, showing how to refine the prompt to control the length, focus on specific details, and include additional instructions for better results.
+**What:** The lesson demonstrates the process of developing prompts for applications using large language models, emphasizing the importance of iteration and refinement.
 
 ## Cheatsheet:
-- Write a prompt based on your idea
-  - **Reasoning:** Provides initial guidance for the model
-  - **Example:** "Your task is to help a marketing team create a description for a retail website based on a fact sheet."
-- Analyze the output and refine the prompt
-  - **Reasoning:** Allows for adjustments based on the initial results
-  - **Example:** "Clarify the prompt to limit the output to at most 50 words."
-- Iterate by modifying the prompt for specific requirements
-  - **Reasoning:** Tailors the prompt to achieve desired outcomes
-  - **Example:** "Include specific product IDs in the description for furniture retailers."
+- Start with an idea for the task you want to achieve.
+  - **Reasoning:** Provides a clear goal for prompt development.
+  - **Example:** Summarizing a fact sheet for a chair.
+- Write a clear and specific prompt, run it, and analyze the output.
+  - **Reasoning:** Allows for evaluation and refinement.
+  - **Example:** Creating a product description for a retail website.
+- Refine the prompt based on feedback, adjust instructions as needed, and iterate until the desired result is achieved.
+  - **Reasoning:** Ensures the prompt aligns with the application's requirements.
+  - **Example:** Modifying the prompt to focus on technical details for furniture retailers.
 
 ## Quotes:
-- "Prompt development is an iterative process."
-- "The key to being an effective prompt engineer is having a good process."
-- "Developing effective prompts is about refining ideas and instructions for specific applications."
+- "Developing a prompt is an iterative process."
+- "The key is having a good process to develop effective prompts."
+- "It's about refining your instructions to get closer to the results you want."

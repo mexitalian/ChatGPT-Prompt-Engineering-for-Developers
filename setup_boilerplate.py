@@ -6,7 +6,7 @@ _ = load_dotenv(find_dotenv()) # read local .env file
 openai.api_key  = os.getenv('OPENAI_API_KEY')
 client = openai.OpenAI()
 
-def get_completion(prompt, model="gpt-4o-mini"):
+def get_completion(prompt, model="gpt-4o-mini", temperature=0):
     messages = [{"role": "user", "content": prompt}]
     response = openai.chat.completions.create(
         model=model,
@@ -17,6 +17,6 @@ def get_completion(prompt, model="gpt-4o-mini"):
         },
         {"role": "user", "content": prompt}
     ],
-        temperature=0, # this is the degree of randomness of the model's output
+        temperature=temperature, # this is the degree of randomness of the model's output
     )
     return response.choices[0].message.content

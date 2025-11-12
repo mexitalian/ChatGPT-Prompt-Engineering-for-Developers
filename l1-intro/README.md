@@ -1,4 +1,4 @@
-```markdown
+
 ## Why
 Understanding ChatGPT prompt engineering empowers developers to leverage LLMs effectively, unlocking innovative applications and enhancing productivity in software development.
 
@@ -32,4 +32,3 @@ The lesson covers prompting techniques, common use cases, and practical applicat
 ## Quotes
 - "The power of LLMs as a developer tool is still very underappreciated."
 - "Think of giving instructions to another person, say someone that's smart but doesn’t know the specifics of your task."
-```

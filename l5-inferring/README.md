@@ -1,4 +1,4 @@
-```markdown
+
 ## Why
 Understanding how to infer sentiment and extract information from text is crucial for improving customer insights and enhancing user experience in various applications.
 
@@ -44,4 +44,3 @@ The lesson covers techniques for sentiment analysis, emotion extraction, and inf
 
 ## Quotes
 "In just a few minutes, you can build multiple systems for making inferences about text that previously just would have taken days or even weeks."
-```

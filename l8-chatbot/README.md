@@ -1,4 +1,4 @@
-```markdown
+
 ## Why
 Building a custom chatbot enhances user interaction and automates tasks, making processes like customer service more efficient and accessible.
 
@@ -33,4 +33,3 @@ The lesson covers setting up the chatbot, defining helper functions, and using s
 - "You could use it to build a custom chatbot with only a modest amount of effort."
 - "Each conversation with a language model is a standalone interaction."
 - "Feel free to customize it yourself and play around with the system message."
-```

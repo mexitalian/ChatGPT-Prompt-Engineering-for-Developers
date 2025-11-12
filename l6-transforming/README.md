@@ -1,4 +1,4 @@
-```markdown
+
 ## Why
 Understanding large language models enhances our ability to communicate effectively across languages and formats, improving accessibility and collaboration in diverse environments.
 
@@ -46,4 +46,3 @@ The lesson covers translation tasks, tone transformation, format conversion, and
 "ChatGPT can actually also help produce different tones."  
 "You've just built a universal translator."  
 "It's always useful to check your text before you post it in a public forum."
-```

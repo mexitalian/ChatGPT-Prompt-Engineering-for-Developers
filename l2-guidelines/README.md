@@ -1,4 +1,4 @@
-```markdown
+
 ## Why
 Effective prompting is crucial for obtaining accurate and relevant outputs from language models, enhancing user experience and productivity in various applications.
 
@@ -41,4 +41,3 @@ The lesson covers principles and tactics for prompt engineering, including using
 > "Don't confuse writing a clear prompt with writing a short prompt."  
 > "If you give a model a task that's too complex... it may make up a guess which is likely to be incorrect."  
 > "Make sure to kind of use some of the techniques that we've gone through to try and avoid this."
-```
